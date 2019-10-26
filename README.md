@@ -31,4 +31,7 @@ Inoreder to access the admin panel a superuser account is necessary
 #### 7.Running The Server
 
     python manage.py runserver
+ 
+ 
+ //Set the IP address for the Server
 
